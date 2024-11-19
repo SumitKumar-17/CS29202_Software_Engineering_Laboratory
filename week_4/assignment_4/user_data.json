@@ -1,0 +1,54 @@
+[
+  {
+    "user_id": "admin@admin.com",
+    "password": "12345678",
+    "user_type": "Admin",
+    "isAdmin": true,
+    "address": "Admin Department",
+    "department": "Admin Department"
+  },
+  {
+    "user_id": "user2@gmail.com",
+    "password": "SuMi1703#",
+    "user_type": "UG Student",
+    "isAdmin": false,
+    "address": "VS Hall of Residence",
+    "roll_no": "22CS30056",
+    "department": "Computer Science and Engineering",
+    "cg": "9.00",
+    "semester": "4",
+    "status": "Deactivated"
+  },
+  {
+    "user_id": "user1",
+    "password": "SuMi1703#",
+    "user_type": "Teacher",
+    "isAdmin": false,
+    "address": "vmdnm",
+    "department": "vnaskfv"
+  },
+  {
+    "user_id": "user2",
+    "password": "SuMi1703#",
+    "user_type": "UG Student",
+    "isAdmin": false,
+    "address": "avjhva",
+    "roll_no": "sdbdfb",
+    "department": "nad",
+    "cg": "10.00",
+    "semester": "4",
+    "status": "Deactivated"
+  },
+  {
+    "user_id": "user3",
+    "password": "SuMi1703#",
+    "user_type": "PG Student",
+    "isAdmin": false,
+    "address": "askvasn,v",
+    "roll_no": "jsvjsv",
+    "department": " ankva,V",
+    "cg": "10.00",
+    "research_area": " vcnmhjvc",
+    "status": "Deactivated"
+  }
+]
