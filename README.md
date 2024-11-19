@@ -1,1 +1,2 @@
-This repository contains all the assignment codes of Software Engineering Laboratory  which is a Semester-4 Course of Computer Science and Engineering Department.
+# CS29202 Software Engineering Laboratory
+This repository contains all my assignments of Software Engineering Laboratory.
